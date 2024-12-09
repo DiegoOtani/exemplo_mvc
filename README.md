@@ -16,7 +16,7 @@ mvc/
 ### Clone o repositório:
 ```
 git clone https://github.com/DiegoOtani/exemplo_mvc.git
-cd mvc-example
+cd mvc
 ```
 ### Instale as dependências:
 
